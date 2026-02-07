@@ -62,7 +62,7 @@ I architect and deploy **production-grade intelligent systems** that drive real 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud & Services**
 
@@ -76,37 +76,40 @@ I architect and deploy **production-grade intelligent systems** that drive real 
 
 ## 🔥 Featured Projects
 
-### 🕸️ GraphRAG Supply Chain Intelligence
+### 🕸️ [Graph-Based AI for Supply Chain Intelligence](https://github.com/dhanushmekala04/Graph-Based-AI-for-Supply-Chain-Intelligence)
 Knowledge graph with 2.1M+ relationships for supply chain risk analysis. 94.2% accuracy, analysis time reduced from days to 2.3 seconds.
 
 **Tech:** Python, Neo4j, GraphRAG, FastAPI, OpenAI
 
-### 📊 Multi-Store Demand Forecasting
+---
+
+### 📊 [Multi-Store Demand Forecasting System](https://github.com/dhanushmekala04/Multi-Store-Demand-Forecasting-System)
 CNN-LSTM model forecasting 500+ SKUs with 16.49% MAPE. 35% improvement over baseline, simulated $150K annual savings.
 
 **Tech:** TensorFlow, PyTorch, FastAPI, Docker
 
-### 🤖 Agentic Customer Support System
-Multi-agent system with 6 specialized agents. 91% accuracy, reduced resolution time from 45 min to 2.3 seconds.
+---
 
-**Tech:** LangGraph, LangChain, Groq LLaMA, FastAPI
-
-### 🧠 Phi-3 Fine-Tuned LLM
+### 🧠 [Supply Chain Domain LLM - Phi-3 Fine-Tuned](https://github.com/dhanushmekala04/Supply-Chain-Domain-LLM---Phi-3-Fine-tuned-Model)
 Fine-tuned Microsoft Phi-3 on 10K+ supply chain queries. 38% F1-score improvement, 87% first-query accuracy.
 
 **Tech:** PyTorch, Hugging Face, QLoRA, Ollama
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 [Customer Support Ticket Management](https://github.com/dhanushmekala04/Customer-Support-Ticket-Management)
+Multi-agent system with 6 specialized agents. 91% accuracy, reduced resolution time from 45 min to 2.3 seconds.
 
-<div align="center">
+**Tech:** LangGraph, LangChain, Groq LLaMA, FastAPI
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushmekala04&show_icons=true&theme=radical&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmekala04&layout=compact&theme=radical&hide_border=true)
+### 🛒 [Hybrid Retail Recommender](https://github.com/dhanushmekala04/Hybrid-Retail-Recommender)
+Advanced recommendation system combining collaborative filtering and content-based approaches for personalized retail experiences.
 
-</div>
+**Tech:** Python, Scikit-learn, Pandas, FastAPI
+
+---
 
 ---
 
@@ -114,10 +117,12 @@ Fine-tuned Microsoft Phi-3 on 10K+ supply chain queries. 38% F1-score improvemen
 
 ### 💬 Let's Connect!
 
-Always open to discussing AI/ML projects and collaboration opportunities
+AI/ML Engineer | Data Scientist | Always open to discussing innovative projects and collaboration opportunities
 
-📧 dhanushmekala04@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/dhanushmekala04)
+📧 [dhanushmekala04@gmail.com](mailto:dhanushmekala04@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/dhanushmekala04) | 🐙 [GitHub](https://github.com/dhanushmekala04)
 
-⭐️ From [dhanushmekala04](https://github.com/dhanushmekala04)
+---
+
+⭐️ From [dhanushmekala04](https://github.com/dhanushmekala04) | Open to collaboration and new opportunities
 
 </div>
