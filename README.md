@@ -21,6 +21,26 @@ AI Engineer passionate about building production ML systems and LLM applications
 
 ---
 
+## 💼 Experience
+
+### 🚀 AI & ML Engineer Intern — Profolo
+📍 Hyderabad | Nov 2025 – Present  
+
+- Built production-grade AI hiring workflows using GPT-4, LangChain, and Pinecone  
+- Contributed to TalentGPT — an LLM-powered recruiter search engine  
+- Worked on prompt engineering, semantic search, and scalable AI systems  
+
+---
+
+### 🤖 AI & ML Engineer Intern — WINIT Software
+📍 Hyderabad | Apr 2025 – Oct 2025  
+
+- Developed AI-powered automated order processing workflows  
+- Worked with LangGraph, Gemini, Mistral OCR, PostgreSQL, Celery, and Twilio  
+- Helped build enterprise-scale intelligent automation systems  
+
+---
+
 ## 🎯 What I Do
 
 I architect and deploy **production-grade intelligent systems** that drive real business impact. My focus areas:
